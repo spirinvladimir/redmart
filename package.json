@@ -1,0 +1,14 @@
+{
+  "name": "redmart",
+  "version": "1.0.0",
+  "description": ".",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "spirin.vladimir@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "avl": "1.4.4"
+  }
+}
